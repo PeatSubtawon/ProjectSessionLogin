@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|c:\\users\\user\\source\\repos\\projectsessionlogin\\projectsessionlogin\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|solutionrelative:projectsessionlogin\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|c:\\users\\user\\source\\repos\\projectsessionlogin\\projectsessionlogin\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|solutionrelative:projectsessionlogin\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|c:\\users\\user\\source\\repos\\projectsessionlogin\\projectsessionlogin\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|solutionrelative:projectsessionlogin\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|c:\\users\\user\\source\\repos\\projectsessionlogin\\projectsessionlogin\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5DD4B02A-D159-4B82-B77A-CC7FD3C55735}|ProjectSessionLogin\\ProjectSessionLogin.csproj|solutionrelative:projectsessionlogin\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectSessionLogin\\Welcome.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Welcome.aspx.cs",
+              "RelativeToolTip": "ProjectSessionLogin\\Welcome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:53:27.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ProjectSessionLogin\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Login.aspx.cs",
+              "RelativeToolTip": "ProjectSessionLogin\\Login.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T20:02:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Welcome.aspx",
+              "RelativeDocumentMoniker": "ProjectSessionLogin\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Welcome.aspx",
+              "RelativeToolTip": "ProjectSessionLogin\\Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T20:52:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Login.aspx",
+              "RelativeDocumentMoniker": "ProjectSessionLogin\\Login.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ProjectSessionLogin\\ProjectSessionLogin\\Login.aspx",
+              "RelativeToolTip": "ProjectSessionLogin\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-06T20:00:23.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
